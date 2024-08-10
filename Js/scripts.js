@@ -1,7 +1,7 @@
 // Tampilkan halaman pertama saat pertama kali load
 document.getElementById("page1").style.display = "block"; // Menampilkan halaman pertama
 
-let audio = new Audio('Assets/music.mp3');
+let audio = new Audio('Assets/music1.mp3');
 audio.loop = true;
 
 function checkPassword1() {
